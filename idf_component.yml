@@ -1,0 +1,12 @@
+## LVGL KAWAII FACE component manifest
+##
+## Declares dependencies so that this component is fully self-contained
+## when copied into any ESP-IDF project or published to the component
+## registry.  The ESP-IDF component manager will automatically fetch
+## lvgl/lvgl when this component is added to a project.
+
+version: "1.0.0"
+
+dependencies:
+  idf: ">=5.0"
+  lvgl/lvgl: ">=9.0.0"
