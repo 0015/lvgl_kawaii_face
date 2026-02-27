@@ -1,5 +1,7 @@
 # LVGL KAWAII FACE
 
+[![GitHub](https://img.shields.io/badge/GitHub-0015%2Flvgl__kawaii__face-blue?logo=github)](https://github.com/0015/lvgl_kawaii_face)
+
 A kawaii-style animated face widget for [LVGL 9](https://lvgl.io/) on ESP32.  
 Renders eyes, eyebrows, blush, and a mouth on LVGL canvases with per-emotion dynamic animations — bouncing, sparkling, pupil movement, tears, sweat drops, and smooth transitions between every expression.
 

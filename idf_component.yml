@@ -6,6 +6,9 @@
 ## lvgl/lvgl when this component is added to a project.
 
 version: "1.0.0"
+description: "Kawaii animated face widget for LVGL 9 on ESP32 — 17 emotions with dynamic eye, mouth, and sparkle animations"
+url: "https://github.com/0015/lvgl_kawaii_face"
+repository: "https://github.com/0015/lvgl_kawaii_face.git"
 
 dependencies:
   idf: ">=5.0"
